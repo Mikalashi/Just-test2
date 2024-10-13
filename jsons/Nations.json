@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Reich",
+		"leaderName": "Thula",
+		"adjective": ["reich"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
